@@ -1,6 +1,3 @@
-# hello world
-
-## Synopsis:
 Project LION is a joint DAO effort from talentDAO and LabDAO to build AI systems for deploying adaptive community-trained intelligent agents that simulate the language and communication patterns of complex human systems.
 
 By leveraging transformers – the same neural network architecture used to train OpenAI’s DALL-E 2 and GPT-3 – LION will build on classical approaches to language and communication analysis through the lens of a single, intelligent system. All, in the spirit of open source.
