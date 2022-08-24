@@ -36,7 +36,7 @@ If these can be validated, Project Lion may not only change the way organization
 - [Kenneth Francis](https://twitter.com/k3nnethfrancis) - Psychometrics & Data Science Lead, [talentDAO](https://talentdao.mirror.xyz/)
 
 ##### LabDAO Data Science Guild Support
-- Kelvin
+- [Kelvin](https://twitter.com/kjwallace_eth)
 - [Tom](https://twitter.com/Tom_A_Lynch)
 - [Mahdi](https://twitter.com/MahdiMC)
 
