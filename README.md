@@ -1,42 +1,30 @@
-Project LION is a joint DAO effort from [talentDAO](https://talentdao.mirror.xyz/) and [LabDAO](https://www.labdao.xyz/) to build AI systems for deploying adaptive community-trained intelligent agents that simulate the language and communication patterns of complex human systems.
-
-By leveraging transformers – the same neural network architecture used to train OpenAI’s DALL-E 2 and GPT-3 – LION will build on classical approaches to language and communication analysis through the lens of a single, intelligent system. All, in the spirit of open source.
-
-The first version of LION will build a pipeline from Discord to model training that allows the user to simulate their organization as a Digital Twin, for which they can communicate with like a chatbot.
-
-Future iterations of LION will include the analysis of language and communication networks for both real and simulated datasets. We believe this approach to simulated communication will unlock new ways to analyze data and conduct scientific research in the area of organizational communication and language.
+Project LION is a joint DAO effort from [talentDAO](https://talentdao.mirror.xyz/) and [LabDAO](https://www.labdao.xyz/) to build open source AI tools for DAO operations.
 
 ## What is LION?
 
 L.I.O.N is an acronym for linguistic informatics for organizational networks.
 
-The LION system intends to be both a bridge for communication data extraction [starting with Discord] and data processing pipeline for model training and deployment.
+We initially intended for LION to be a system to that could help analyze community health. Recent developments in AI have caused us to shift focus. Our lionOS repo first tackled some of our initial goals with assessing community health from discord data. Now we want to incorporate this into our next project: Leo.
 
-It is built on the concepts of Organizational Network Analysis [ONA] and Natural Language Processing [NLP] as approaches to modeling communication networks within an organization. Like social network analysis, ONA produces a graph that visualizes and measures the strength of relationships between human nodes. It can help model the interactions between an organization's members and predict burnout from measures like collaborative overload. Together with NLP tools like spaCy and empath, they have uncovered psychometrics like engagement, turnover intent, and cultural fit.
+## What is Leo?
 
-Project LION experiments with taking this idea to the next level: developing adaptive community-trained intelligent agents that can simulate the language and communication patterns of complex human systems.
+Leo is a discord bot [2] powered by GPT-4 that can absorb knowledge about your DAO. Leo can answer questions about your DAO, help onboard knew users, help you think through ideas, and write content for you. These are just some of what Leo is able to do today.
 
-### Project Details
+We intend to continue building more features into Leo over the next several months and onward. Specifically we’re interested in making Leo a customizable agent for your DAO able to execute a wide variety of tasks autonomously, helping DAOs stay true to their name.
 
-We’ll begin by building the bridge from Discord to data processing and model training. The first version of LION will be a way to simulate your own DAOs discord server!
+The best part about Leo is that it's open source, anyone can contribute or fork Leo to customize it for their own DAO. Grant funds will be used to reward those who make Leo better – bounties for meaningful open-source contributions to the project. Here are some examples of features we'd like help building:
 
-Because simulating communication data in this way could unlock new ways of analyzing it, an important step in building LION is validation. There are several areas we intend to validate in the form of unit tests, but as we explore the technology and learn throughout its development, we expect these to evolve:
-- Can model samples reliably reproduce linguistic properties of real data?
-- Do models trained on different time periods do they show statistically different linguistic properties?
-- Can models reliably respond to likert-scale questionnaires?
-- Do samples of model responses to likert-scale questionnaires correlate with user responses?
-- Do time-chunked models see statistical differences in survey samplings?
-- Do models out or under perform classical tools for classification tasks?
-- Do models trained on different sub-units of organizations behave differently than others?
+- integration with lionOS / discord analytics reporting
+- integrations w/ external data sources like notion, discourse, charmverse, mirror, substack, etc.
+- integration with GPT4All-J for an open source model alternative
+- community notes bot
+- research agents
+- scheduling assistant
+- proposal writer
+- fine-tuning / training pipelines
 
-If these can be validated, Project Lion may not only change the way organizations assess their health in the practical setting, but open the doors to a brand new method of in silico organizational science research.
+This is how we build a truly democratized AI assistant for web3 communities. Join us.
 
-#### Project team
-- [Stanley Bishop](https://twitter.com/ScienceStanley) - AI architect, [LabDAO](https://www.labdao.xyz/)
-- [Kenneth Francis](https://twitter.com/k3nnethfrancis) - Psychometrics & Data Science Lead, [talentDAO](https://talentdao.mirror.xyz/)
-
-##### LabDAO Data Science Guild Support
-- [Kelvin](https://twitter.com/kjwallace_eth)
-- [Tom](https://twitter.com/Tom_A_Lynch)
-- [Mahdi](https://twitter.com/MahdiMC)
-
+### Project Leads
+Stanley Bishop - AI Systems Architect, labDAO, @sciencestanley
+Kenneth Francis - Data Science Lead, talentDAO, @k3nnethfrancis
